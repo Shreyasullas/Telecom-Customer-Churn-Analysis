@@ -133,7 +133,7 @@ The dashboard helps identify patterns such as:
 
 ## Dashboard Preview
 
-![Telecom Customer Churn Analysis Dashboard](Dashboard_Bi.png)
+![Telecom Customer Churn Analysis Dashboard]([Dashboard_Bi.png](https://github.com/Shreyasullas/Telecom-Customer-Churn-Analysis/blob/main/Dashboard_BI.png))
 
 ## Business Value
 
